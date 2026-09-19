@@ -4,7 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=War%20Economic%20Impact%20Dashboard&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Analysing%20100%2C000%20Conflict%20Records%20%7C%20WWII%20→%202026&descAlignY=60&descSize=16" width="100%"/>
 
 <br/>
-
 <!-- Badges Row 1 -->
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -21,10 +20,8 @@
 #### 🔗 **[Click here to Live](https://impactofwareconomicsprojectgit-gep2nly75qeohxj8aef9n9.streamlit.app/)**
 
 <br/><br/>
-
 > **"Behind every war, two battles are fought simultaneously.**
 > **The first on the frontlines. The second on the breadlines."**
-
 <br/>
 
 </div>
