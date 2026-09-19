@@ -20,7 +20,7 @@
 ![Pages](https://img.shields.io/badge/Dashboard%20Pages-12-9b59b6?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-### 🔗 **[Click here to Live](https://impactofwareconomicsprojectgit-gep2nly75qeohxj8aef9n9.streamlit.app/))**
+#### 🔗 **[Click here to Live](https://impactofwareconomicsprojectgit-gep2nly75qeohxj8aef9n9.streamlit.app/)**
 
 <br/><br/>
 
