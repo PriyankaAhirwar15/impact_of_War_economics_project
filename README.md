@@ -4,13 +4,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=War%20Economic%20Impact%20Dashboard&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Analysing%20100%2C000%20Conflict%20Records%20%7C%20WWII%20→%202026&descAlignY=60&descSize=16" width="100%"/>
 
 <br/>
+
 <!-- Badges Row 1 -->
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-1.4+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-5.0+-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
 <br/>
+
 <!-- Badges Row 2 -->
 ![Status](https://img.shields.io/badge/Status-Active-00C851?style=for-the-badge)
 ![Records](https://img.shields.io/badge/Records-100%2C000-e74c3c?style=for-the-badge)
