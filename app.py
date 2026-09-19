@@ -1,11 +1,11 @@
 import streamlit as st
 import sys, os
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-from utils import load_data
-df = load_data()
 
 st.set_page_config(page_title="War Economy Dashboard",
                    layout="wide", page_icon="🌍")
+
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
 
 st.title("🌍 War Economic Impact Dashboard")
 st.markdown("### Complete Analysis of 100,000 Conflict Records (WWII → 2026)")
