@@ -11,9 +11,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-1.4+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-5.0+-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
 <br/>
-
 <!-- Badges Row 2 -->
 ![Status](https://img.shields.io/badge/Status-Active-00C851?style=for-the-badge)
 ![Records](https://img.shields.io/badge/Records-100%2C000-e74c3c?style=for-the-badge)
